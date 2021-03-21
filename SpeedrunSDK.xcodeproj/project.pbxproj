@@ -40,7 +40,7 @@
 		216821602607E05A00D30A99 = {
 			isa = PBXGroup;
 			children = (
-				2168216C2607E05A00D30A99 /* SpeedrunSDK */,
+				2168216C2607E05A00D30A99 /* Sources */,
 				2168216B2607E05A00D30A99 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2168216C2607E05A00D30A99 /* SpeedrunSDK */ = {
+		2168216C2607E05A00D30A99 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				21A3247C2607E36900788D99 /* Service */,
@@ -61,7 +61,7 @@
 				2168216D2607E05A00D30A99 /* SpeedrunSDK.h */,
 				2168216E2607E05A00D30A99 /* Info.plist */,
 			);
-			path = SpeedrunSDK;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		2168217D2607E1C900D30A99 /* SDK */ = {
